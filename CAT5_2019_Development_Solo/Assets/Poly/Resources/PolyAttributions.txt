@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: brown
+Author: Jenny Goodwin
+URL: https://poly.google.com/view/57I4ZUWDawK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: white
+Author: Jenny Goodwin
+URL: https://poly.google.com/view/1WaKcNjQNwD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
